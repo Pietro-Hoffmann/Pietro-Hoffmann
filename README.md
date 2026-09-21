@@ -101,17 +101,11 @@ AI-powered NOC product. A few things I shipped there:
 - **NIC.br** — IPv6 Fundamentals (2025)
 - **X FEBIC Distinction** — Robotics & Computational Intelligence, for *FoodSense*,
   a team-built app helping people with food intolerances eat safely
-- Languages: **Portuguese** (native) · **English** (advanced) · **Spanish** (basic)
 
 ---
 
 <div align="center">
 
-<img height="150" alt="Pietro's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Pietro-Hoffmann&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=808080" />
-<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Hoffmann&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=808080" />
-
-<br><br>
-
-*Open to opportunities in Spain and Portugal — immediate availability for relocation.*
+<sub>Interested in networks, observability, and systems that have to stay up.</sub>
 
 </div>
