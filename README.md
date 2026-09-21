@@ -103,6 +103,11 @@ AI-powered NOC product. A few things I shipped there:
 - **X FEBIC Distinction** — Robotics & Computational Intelligence, for *FoodSense*,
   a team-built app helping people with food intolerances eat safely
 
+## Languages I speak
+
+🇧🇷 **Portuguese** — Native  
+🇺🇸 **English** — Advanced
+
 ---
 
 <div align="center">
