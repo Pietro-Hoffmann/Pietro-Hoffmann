@@ -10,12 +10,6 @@ I build production SaaS for ISP network monitoring — multi-tenant platforms wh
 hard part isn't the CRUD, it's talking to Cisco, Huawei, Juniper and ZTE gear over SSH
 and turning what comes back into something an operator can act on.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-hoffmann-21a90b259)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietrohoffmann315@gmail.com)
-![Location](https://img.shields.io/badge/Parob%C3%A9%2C%20RS%2C%20Brazil-475569?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 </div>
 
 ---
